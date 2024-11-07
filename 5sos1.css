@@ -1,0 +1,58 @@
+body{
+    background-image: url(fondoblaco.jpg);
+    background-repeat: repeat;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:  #FFE1E5;
+    width: 100%;
+}
+li{
+    float: left;
+}
+li a {
+    display: block;
+    color:#d83651 ;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: Garamond, serif;
+}
+li a:hover {
+    background-color: #f1c7ce;
+}
+.active{
+    background-color:#FFB5C1 ;
+}
+h2{
+    color:#D6465D;
+    font-family: Garamond, serif;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 2px solid #db304d ;
+}
+.img1{
+    float: left;
+    width: 170px;
+    height: 170px;
+    margin-left: 15px;
+}
+p{
+    color:#D6465D;
+    font-family: Garamond, serif;
+    text-align: left;
+}
+h3{
+    color:#D6465D;
+    font-family: Garamond, serif;
+}
+.img2{
+    float: right;
+    width: 170px;
+    height: 170px;
+    margin-left: 15px; 
+}
