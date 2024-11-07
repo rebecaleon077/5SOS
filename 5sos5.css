@@ -2,7 +2,7 @@ body{
     background-image: url(fondoblaco.jpg);
     background-repeat: repeat;
 }
-ul{
+.a{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -34,4 +34,7 @@ h2{
     text-align: center;
     font-size: 30px;
     border-bottom: 2px solid #db304d ;
+}
+img{
+    width: 10%;
 }
